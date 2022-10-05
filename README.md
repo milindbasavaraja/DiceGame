@@ -1,2 +1,2 @@
 # DiceGame
- My First Javascript Project
+ My first Javascript project
